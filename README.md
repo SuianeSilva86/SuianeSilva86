@@ -1,14 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <h1 align="center">👋🏽 Oi, eu sou a Suiane Silva</h1>
-<h3 align="center">💻 Dev Fullstack | 20 anos | BR 🇧🇷</h3>
+<h3 align="center">💻 Dev Fullstack | 20 anos | BR</h3>
 
 <p align="center">
-  <strong>Curiosa por natureza, focada por escolha.</strong><br/>
   Desenvolvimento não é só código, é visão, entrega e propósito.
 </p>
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Transformando+ideias+em+soluções.;Criando+código+que+fala+por+si.;Bem-vindo+ao+meu+universo+dev.)](https://git.io/typing-svg)
 
@@ -32,8 +29,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=microsoftpowerautomate)&nbsp;
