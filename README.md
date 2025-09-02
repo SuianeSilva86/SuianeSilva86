@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-<h1 align="center">👋🏽 Oi, eu sou a Suiane Silva</h1>
-<h3 align="center">💻 Dev Fullstack | 20 anos | BR</h3>
+<h1 align="center">👋🏽 Ooi Seja bem vindo(a), eu sou a Suiane</h1>
+<h3 align="center">💻 Desenvolvedora Fullstack | 22 anos | BR</h3>
 
 <p align="center">
   Desenvolvimento não é só código, é visão, entrega e propósito.
