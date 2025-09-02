@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="mailto:suiane.studio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-maria.suiane934-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-suiane.studio-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/suiane-santos-85363a215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Suiane%20Silva-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
