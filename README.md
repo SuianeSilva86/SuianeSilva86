@@ -29,16 +29,16 @@
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=microsoftpowerautomate)&nbsp;
 ![SuiteScript](https://img.shields.io/badge/-SuiteScript-0D1117?style=for-the-badge&logo=oracle)&nbsp;
 ![NetSuite](https://img.shields.io/badge/-NetSuite-0D1117?style=for-the-badge&logo=oracle)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?style=for-the-badge&logo=azuredevops)&nbsp;
+
 
 <br/>
 
 ### 📚 Estudando agora:
 
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=for-the-badge&logo=framer)&nbsp;
-![Zod](https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=zod)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?style=for-the-badge&logo=vitest)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge&logo=microsoft)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?style=for-the-badge&logo=azuredevops)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws)&nbsp;
 
 <br/>
