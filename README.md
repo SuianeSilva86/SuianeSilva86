@@ -7,7 +7,7 @@
   Desenvolvimento não é só código, é visão, entrega e propósito.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Transformando+ideias+em+soluções.;Criando+código+que+fala+por+si.;Bem-vindo+ao+meu+universo+dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Transformando+ideias+em+soluções.;Criando+código+que+fala+por+si.)](https://git.io/typing-svg)
 
 <br/>
 
