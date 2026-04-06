@@ -13,17 +13,15 @@
 
 <br/>
 
-## sobre mim
+## Sobre mim
 
-Atuo na interseção entre produto, experiência e execução.  
-Gosto de transformar contextos complexos em fluxos mais claros, decisões mais inteligentes e soluções que façam sentido para o negócio e para quem usa.
+Minha trajetória começou na tecnologia, atuando com desenvolvimento web, integrações via API, automação de processos e construção de soluções digitais conectadas às necessidades do negócio. Ao longo desse caminho, fui desenvolvendo não só repertório técnico, mas também uma visão cada vez mais ampla sobre como produtos e sistemas precisam fazer sentido na prática: para a empresa, para os times e principalmente para quem usa.
 
-Tenho interesse especial em:
-- descoberta e estruturação de problemas
-- definição de fluxos e jornadas
-- priorização e alinhamento entre áreas
-- documentação funcional e visão de produto
-- interface entre negócio, tecnologia e experiência
+Mais do que executar, sempre me interessou entender o contexto por trás das demandas. Gosto de olhar para um problema e pensar além da tarefa em si: qual é a real necessidade, onde está o gargalo, o que pode ser melhorado no fluxo, como organizar isso de forma mais clara e como transformar uma ideia em uma solução viável e funcional. Foi justamente esse olhar que me aproximou da área de produto.
+
+Hoje, direciono minha experiência para Product Management e Product Ownership, unindo minha base em tecnologia com interesse por estruturação de demandas, definição de fluxos, organização de requisitos, alinhamento entre áreas e melhoria contínua da experiência do usuário. Me identifico com o papel de conectar negócio, tecnologia e experiência, ajudando a transformar cenários complexos em soluções mais claras, estratégicas e bem direcionadas.
+
+Tenho interesse especial em produtos que exigem visão sistêmica, senso de organização e capacidade de traduzir necessidades em entregas com propósito. Gosto de participar da construção de soluções de forma intencional, pensando não apenas no que precisa ser feito, mas no porquê, para quem e com qual impacto.
 
 <br/>
 
