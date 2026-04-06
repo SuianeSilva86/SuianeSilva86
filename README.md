@@ -1,62 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A59&height=120&section=header"/>
 
-<h1 align="center">👋🏽 Ooi Seja bem vindo(a), eu sou a Suiane</h1>
-<h3 align="center">💻 Desenvolvedora Fullstack | 22 anos | BR</h3>
+<h1 align="center">Suiane Santos</h1>
+<h3 align="center">Product Manager em construção | Product Owner | 22 anos | BR</h3>
 
 <p align="center">
-  Desenvolvimento não é só código, é visão, entrega e propósito.
+  Produto não é só funcionalidade. É visão, contexto, priorização e entrega com intenção.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Transformando+ideias+em+soluções.;Criando+código+que+fala+por+si.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=FF7A59&center=true&vCenter=true&width=1000&lines=Transformando+problemas+em+dire%C3%A7%C3%A3o.;Conectando+produto%2C+experi%C3%AAncia+e+entrega.;Construindo+solu%C3%A7%C3%B5es+com+clareza+e+prop%C3%B3sito." alt="Typing SVG" />
+</p>
 
 <br/>
 
-<br/>
+## sobre mim
 
-### 🚀 Principais Skills:
+Atuo na interseção entre produto, experiência e execução.  
+Gosto de transformar contextos complexos em fluxos mais claros, decisões mais inteligentes e soluções que façam sentido para o negócio e para quem usa.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=microsoftpowerautomate)&nbsp;
-![SuiteScript](https://img.shields.io/badge/-SuiteScript-0D1117?style=for-the-badge&logo=oracle)&nbsp;
-![NetSuite](https://img.shields.io/badge/-NetSuite-0D1117?style=for-the-badge&logo=oracle)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?style=for-the-badge&logo=azuredevops)&nbsp;
-
+Tenho interesse especial em:
+- descoberta e estruturação de problemas
+- definição de fluxos e jornadas
+- priorização e alinhamento entre áreas
+- documentação funcional e visão de produto
+- interface entre negócio, tecnologia e experiência
 
 <br/>
 
-### 📚 Estudando agora:
+## foco principal
 
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=for-the-badge&logo=framer)&nbsp;
-![Vitest](https://img.shields.io/badge/-Vitest-0D1117?style=for-the-badge&logo=vitest)&nbsp;
-![Playwright](https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge&logo=microsoft)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws)&nbsp;
+![Product Discovery](https://img.shields.io/badge/Product%20Discovery-7A2E1F?style=for-the-badge&logo=googleanalytics&logoColor=white)&nbsp;
+![Priorização](https://img.shields.io/badge/Priorização-9C3D2A?style=for-the-badge&logo=target&logoColor=white)&nbsp;
+![Roadmap](https://img.shields.io/badge/Roadmap-B74F3B?style=for-the-badge&logo=linear&logoColor=white)&nbsp;
+![Requisitos Funcionais](https://img.shields.io/badge/Requisitos%20Funcionais-C65D3A?style=for-the-badge&logo=readthedocs&logoColor=white)&nbsp;
+![Jornada do Usuário](https://img.shields.io/badge/Jornada%20do%20Usuário-D96C3F?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;
+![Stakeholders](https://img.shields.io/badge/Alinhamento%20com%20Stakeholders-E07A5F?style=for-the-badge&logo=handshake&logoColor=white)&nbsp;
+![Processos](https://img.shields.io/badge/Mapeamento%20de%20Processos-CB6D51?style=for-the-badge&logo=processwire&logoColor=white)&nbsp;
+![Agile](https://img.shields.io/badge/Agile%20%26%20Delivery-A44A3F?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 <br/>
 
-### 🌐 Onde me encontrar:
+## ferramentas que apoiam minha atuação
+
+![Figma](https://img.shields.io/badge/Figma-7A2E1F?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-9C3D2A?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-B74F3B?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-C65D3A?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
+![NetSuite](https://img.shields.io/badge/NetSuite-D96C3F?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![Bitrix24](https://img.shields.io/badge/Bitrix24-E07A5F?style=for-the-badge&logo=bitrix24&logoColor=white)&nbsp;
+![Power Automate](https://img.shields.io/badge/Power%20Automate-CB6D51?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)&nbsp;
+![Miro](https://img.shields.io/badge/Miro-A44A3F?style=for-the-badge&logo=miro&logoColor=white)&nbsp;
+
+<br/>
+
+## estudando agora
+
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-7A2E1F?style=for-the-badge&logo=bookstack&logoColor=white)&nbsp;
+![Métricas de Produto](https://img.shields.io/badge/Métricas%20de%20Produto-9C3D2A?style=for-the-badge&logo=datadog&logoColor=white)&nbsp;
+![UX Thinking](https://img.shields.io/badge/UX%20Thinking-B74F3B?style=for-the-badge&logo=behance&logoColor=white)&nbsp;
+![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-C65D3A?style=for-the-badge&logo=googlesheets&logoColor=white)&nbsp;
+
+<br/>
+
+## onde me encontrar
 
 <div align="center">
   <a href="mailto:suiane.studio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-suiane.studio-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-suiane.studio-7A2E1F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/suiane-santos-85363a215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Suiane%20Silva-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Suiane%20Santos-B74F3B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <strong>“Gentileza é uma virtude, mas às vezes é necessário mostrar as unhas.”</strong><br/>
-  <em>- Um lembrete da Kaia pra Su, e da Su pro mundo.</em>
+  <strong>Produto com intenção, experiência com clareza e entrega com propósito.</strong>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A59&height=120&section=footer"/>
