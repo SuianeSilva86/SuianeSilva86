@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A59&height=120&section=header"/>
 
 <h1 align="center">Suiane Santos</h1>
-<h3 align="center">Product Manager em construção | Product Owner | 22 anos | BR</h3>
+<h3 align="center">Product Manager | Product Owner | 22 anos | BR</h3>
 
 <p align="center">
   Produto não é só funcionalidade. É visão, contexto, priorização e entrega com intenção.
