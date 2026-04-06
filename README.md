@@ -15,13 +15,13 @@
 
 ## Sobre mim
 
-Minha trajetória começou na tecnologia, atuando com desenvolvimento web, integrações via API, automação de processos e construção de soluções digitais conectadas às necessidades do negócio. Ao longo desse caminho, fui desenvolvendo não só repertório técnico, mas também uma visão cada vez mais ampla sobre como produtos e sistemas precisam fazer sentido na prática: para a empresa, para os times e principalmente para quem usa.
+Minha trajetória começou na tecnologia, com experiência em desenvolvimento web, integrações via API, automação de processos e construção de soluções digitais conectadas às necessidades do negócio.
 
-Mais do que executar, sempre me interessou entender o contexto por trás das demandas. Gosto de olhar para um problema e pensar além da tarefa em si: qual é a real necessidade, onde está o gargalo, o que pode ser melhorado no fluxo, como organizar isso de forma mais clara e como transformar uma ideia em uma solução viável e funcional. Foi justamente esse olhar que me aproximou da área de produto.
+Ao longo desse caminho, fui me aproximando cada vez mais de frentes que vão além da execução técnica: entendimento de demandas, organização de fluxos, estruturação de requisitos, melhoria de processos e alinhamento entre áreas. Foi assim que meu interesse por produto se fortaleceu.
 
-Hoje, direciono minha experiência para Product Management e Product Ownership, unindo minha base em tecnologia com interesse por estruturação de demandas, definição de fluxos, organização de requisitos, alinhamento entre áreas e melhoria contínua da experiência do usuário. Me identifico com o papel de conectar negócio, tecnologia e experiência, ajudando a transformar cenários complexos em soluções mais claras, estratégicas e bem direcionadas.
+Hoje, direciono essa bagagem para uma atuação cada vez mais próxima de Product Management e Product Ownership, unindo visão técnica, contexto de negócio e atenção à experiência do usuário.
 
-Tenho interesse especial em produtos que exigem visão sistêmica, senso de organização e capacidade de traduzir necessidades em entregas com propósito. Gosto de participar da construção de soluções de forma intencional, pensando não apenas no que precisa ser feito, mas no porquê, para quem e com qual impacto.
+Gosto de transformar cenários complexos em soluções mais claras, funcionais e viáveis, conectando tecnologia, negócio e experiência com mais intenção, organização e propósito.
 
 <br/>
 
